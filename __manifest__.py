@@ -6,6 +6,9 @@
     'category': 'Uncategorized',
     'summary': 'A simple real estate module',
     'description': 'This module manages real estate properties.',
+    "data":[
+        "security/ir.model.acess.csv"
+    ],
     'installable': True,
     'application': True,  
     
